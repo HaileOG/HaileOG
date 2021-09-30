@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hailemicheal
+- 👀 I’m interested in Programming & Business marketing
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me aradaempire1@gmail.com
